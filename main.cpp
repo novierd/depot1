@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.cpp
- * Author: snir2g2
+ * Author: La mère à Hicham <3
  *
  * Created on 18 décembre 2018, 14:53
  */
@@ -19,8 +19,10 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-  std::cout << "Hello Guys" << std::endl;
-  std::cout << "Hello world!" << std::endl;
+    cout << "Hello Guys" << endl;
+    cout << "Hello world!" << endl;
+    cout << "Dylan, regardes ce que j'ai mis en auteur !" << endl;
+  
     return 0;
 }
 
